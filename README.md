@@ -1,8 +1,8 @@
 # TIPE - Rubik's Cube
 
-:gb: These documents are those that I used for the TIPE exam. It is a personal project conducted during two years (with about two hours a week) that is presented during an oral test to enter French "Grandes Écoles". While code and its comments are written in English, pdf files are written in French.
+These documents are those that I used for the TIPE exam. It is a personal project conducted during two years (with about two hours a week) that is presented during an oral test to enter French "Grandes Écoles". While code and its comments are written in English, pdf files are written in French.
 
-Code is provided "as-is".
+**Code is provided "as-is", and is *not* meant to be used. Its main purpose is to give an example of what can be presented during the TIPE exam.**
 
 <hr>
 
